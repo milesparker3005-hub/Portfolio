@@ -1,1 +1,5 @@
+# Overview
 
+- In this class, my group and I were tasked with choosing one of the many applications of natural language processing and applying it to a real-world business problem. We chose to evaluate job postings on whether they were legitimate or not. Our dataset is from Kaggle and can be found [here](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction). The file with our code is titled "Log_Reg_Code" and our presentation is titled "Presentation".
+
+- Since we are aiming to label job postings as either real or fake, this is a text classification problem. This led us to decide between the generative Naive Bayes model or the discriminative Logistic Regression model. We chose Logistic Regression because we wanted to create a model that would produce probabilities, scale better with large data, and works better with TF-IDF as opposed to Bag of Words. Once we knew what model we wanted to use, we conducted trial and error to determine which types of n-grams and which threshold would perform best.
