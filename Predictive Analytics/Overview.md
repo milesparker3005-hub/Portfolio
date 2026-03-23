@@ -1,5 +1,8 @@
 
-# -msba-portfolio-MilesParker
+# Predictive Analytics Case
+## Contents
+- Final_code: The code used to conduct this case study
+- Executive Summary: This breaks down every step of the process from identifying the business problem to making the model.
 ## Business Problem
 The business problem is to successfully identify what customers are likely to churn and what the major factors driving this are. This matters because it costs much more to acquire customers than it is to retain customers. If we can successfully predict who might churn, then we can employ targeted strategies, using insights from modeling, to retain those customers. 
 ## Key Results
